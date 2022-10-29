@@ -1,7 +1,6 @@
-<br />
-<div align="center">
+<!-- TITLE -->
 ## Text Based Affective Analysis
-
+<div align="center">
 <p align="justify">
 Abstract—The goal of this analysis is to study the correlations between gaze features and human emotions, using NLP techniques.
 The theories and studies underlying emotions are different, making it impossible to unify their representation. For this reason we have decided to carry out this analysis using the two main theories of emotions: Paul Ekman’s theory on discrete emotions and Russell’s theory on core affect.
@@ -14,12 +13,14 @@ On the other hand, our models performed poorly when applied to the core affect c
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project has been developed in collaboration with [https://github.com/FraDetto]:(Francesco Dettori) for the university exam in Affective Computing.
+This project was developed in collaboration with [Francesco Dettori](https://github.com/FraDetto) for the university exams in Affective Computing and Natural interaction.
+Read Paper: [Text-based-affective-analysis](https://github.com/Ale-Ba2lero/Text-based-affective-analysis/blob/main/INMCA-Text_based_affective_analysis_Ballerini_Dettori.pdf)
+
 
 <!-- CONTACT -->
 ## Contact
 
 Alessandro Ballerini - alessandroballerini95@gmail.com
-Francesco Dettori 
 
-Read Paper: [[https://github.com/Ale-Ba2lero/Text-based-affective-analysis)](https://github.com/Ale-Ba2lero/Text-based-affective-analysis/blob/main/INMCA-Text_based_affective_analysis_Ballerini_Dettori.pdf)
+Francesco Dettori - francesco.dettori96@gmail.com
+
