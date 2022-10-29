@@ -14,7 +14,8 @@ On the other hand, our models performed poorly when applied to the core affect c
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This project was developed in collaboration with [Francesco Dettori](https://github.com/FraDetto) for the university exams in Affective Computing and Natural interaction.
-Read Paper: [Text-based-affective-analysis](https://github.com/Ale-Ba2lero/Text-based-affective-analysis/blob/main/INMCA-Text_based_affective_analysis_Ballerini_Dettori.pdf)
+
+Read the Paper: [Text-based-affective-analysis](https://github.com/Ale-Ba2lero/Text-based-affective-analysis/blob/main/INMCA-Text_based_affective_analysis_Ballerini_Dettori.pdf)
 
 
 <!-- CONTACT -->
